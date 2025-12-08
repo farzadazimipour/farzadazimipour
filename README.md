@@ -4,22 +4,16 @@ I’m **Farzad**, an Android Software Engineer with **9+ years of experience** b
 
 I specialize in **Kotlin** and modern Android development, with strong hands-on experience in **Jetpack Compose**, **Clean Architecture**, and **modularized codebases**. Over the years, I’ve worked extensively with architectural patterns like **MVVM** and **MVI**, focusing on writing **testable, maintainable, and performant code**.
 
-Currently, I’m working on large-scale production apps at **TUI**, where I contribute to:
-
-* Migrating legacy UIs from XML to **Jetpack Compose**
-* Transitioning async code from **RxJava to Kotlin Coroutines & Flow**
-* Improving architecture by moving from **MVP to MVVM**
-* Optimizing performance and enhancing user experience
-
-I enjoy **refactoring legacy systems**, collaborating in **Agile/Scrum teams**, and **mentoring junior developers**. I’m passionate about staying up to date with Android best practices and leveraging new technologies to deliver clean, impactful solutions.
-
 **Tech I work with often:**
 
 * Kotlin, Java, Android SDK
-* Jetpack Compose, Material Design
+* Jetpack Compose, Android Views (XML), Jetpack Libraries
 * Coroutines, Flow, RxJava
-* Clean Architecture, MVVM, MVI
-* Unit & UI Testing, CI/CD, Git
+* Clean Architecture, MVVM, MVI, multi-module codebases
+* Unit & UI Testing, CI/CD setup, Git workflows
+* Gradle build system, build performance optimization
+* Cross-platform development with Kotlin Multiplatform (KMP)
+* AI/ML integration on Android (ML Kit, TensorFlow Lite, LLM-based APIs)
 
 <!--
 **farzadazimipoor/farzadazimipoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
