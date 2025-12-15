@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Farzad**, an Android Software Engineer focused on building high-performance, scalable mobile applications.
+I’m **Farzad**, an Android Software Engineer focused on building high-performance, scalable, and maintainable mobile applications.
 
 **Core expertise:**
 
@@ -9,7 +9,7 @@ I’m **Farzad**, an Android Software Engineer focused on building high-performa
 * Coroutines, Flow, RxJava
 * Clean Architecture, MVVM, MVI, multi-module codebases
 * Unit & UI Testing, CI/CD setup, Git workflows
-* Gradle build system, build performance optimization
+* Gradle build system, build performance optimization, developer experience improvements
 * Cross-platform development with Kotlin Multiplatform (KMP)
 * AI/ML integration on Android (ML Kit, TensorFlow Lite, LLM-based APIs)
 
