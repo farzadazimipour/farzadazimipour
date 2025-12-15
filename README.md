@@ -2,8 +2,6 @@
 
 I’m **Farzad**, an Android Software Engineer focused on building high-performance, scalable mobile applications.
 
-I specialize in **Kotlin** and modern Android development, with strong hands-on experience in **Jetpack Compose**, **Clean Architecture**, and **modularized codebases**. Over the years, I’ve worked extensively with architectural patterns like **MVVM** and **MVI**, focusing on writing **testable, maintainable, and performant code**.
-
 **Core expertise:**
 
 * Kotlin, Java, Android SDK
