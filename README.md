@@ -18,7 +18,7 @@ I’m **Farzad**, an Android Software Engineer focused on building high-performa
 * Unit & UI testing (JUnit5, JUnit4, mockK, Espresso), CI/CD pipelines, Git workflows
 * Gradle build system, build performance optimization, developer experience improvements
 * Cross-platform development with Kotlin Multiplatform (KMP)
-* **Exploring AI/ML on Android with hands-on practice (ML Kit, TensorFlow Lite, LLM-based APIs)**
+* **Exploring AI/ML integration on Android with hands-on practice (ML Kit, TensorFlow Lite, LLM-based APIs)**
 
 
 <!--
