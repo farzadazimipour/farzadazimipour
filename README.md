@@ -2,7 +2,7 @@
 
 I’m **Farzad**, an Android Software Engineer focused on building high-performance, scalable, and maintainable mobile applications.
 
-## Core tools & technical expertise:
+**Core tools & technical expertise:**
 
 * Kotlin, Java
 * Android SDK, Android Jetpack
@@ -12,6 +12,7 @@ I’m **Farzad**, an Android Software Engineer focused on building high-performa
 * SOLID principles, design patterns
 * Dagger, Hilt, Koin
 * Firebase
+* Retrofit
 * Room, SQLite
 * JSON, XML
 * Unit & UI testing (JUnit5, JUnit4, mockK, Espresso), CI/CD pipelines, Git workflows
