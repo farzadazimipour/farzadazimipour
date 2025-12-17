@@ -2,16 +2,23 @@
 
 I’m **Farzad**, an Android Software Engineer focused on building high-performance, scalable, and maintainable mobile applications.
 
-**Core expertise:**
+## Core tools & technical expertise:
 
-* Kotlin, Java, Android SDK
-* Jetpack Compose, Android Views (XML), Jetpack Libraries
-* Coroutines, Flow, RxJava
+* Kotlin, Java
+* Android SDK, Android Jetpack
+* Jetpack Compose, Android Views (XML), Material Design
+* Kotlin Coroutines, Kotlin Flow, RxJava
 * Clean Architecture, MVVM, MVI, multi-module codebases
-* Unit & UI Testing, CI/CD setup, Git workflows
+* SOLID principles, design patterns
+* Dagger, Hilt, Koin
+* Firebase
+* Room, SQLite
+* JSON, XML
+* Unit & UI testing (JUnit5, JUnit4, mockK, Espresso), CI/CD pipelines, Git workflows
 * Gradle build system, build performance optimization, developer experience improvements
 * Cross-platform development with Kotlin Multiplatform (KMP)
-* AI/ML integration on Android (ML Kit, TensorFlow Lite, LLM-based APIs)
+* **Exploring AI/ML on Android with hands-on practice (ML Kit, TensorFlow Lite, LLM-based APIs)**
+
 
 <!--
 **farzadazimipoor/farzadazimipoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
